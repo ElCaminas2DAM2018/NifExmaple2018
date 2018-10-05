@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NifExample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Name">Name:</string>
+    <string name="NIF">NIF</string>
+    <string name="please_name">Please enter your name</string>
+    <string name="title_activity_enter_nif_activity">EnterNifACtivity</string>
+    <string name="Ok">Ok</string>
+    <string name="please_enter_nif">Please enter your NIF:</string>
+    <string name="Error">Error</string>
+    <string name="WrongNif">Wrong NIF, please check it.</string>
+</resources>
